@@ -31,6 +31,11 @@ sections:
     content:
       title: News
       subtitle: 
+<<<<<<< HEAD
+      text :  • My research is featured in the TAMU [Research Bulletin](https://research.tamu.edu/2023/04/25/strangers-in-a-strange-land-can-reinforcement-learning-teach-robots-to-operate-on-their-own-in-the-real-world/) and in the College of Engineering  [News](https://engineering.tamu.edu/news/2023/04/kalathil-addresses-reinforcement-learning-challenges.html) <br>  • Sample featured in the TAMU [Research Bulletin](https://research.tamu.edu/2023/04/25/strangers-in-a-strange-land-can-reinforcement-learning-teach-robots-to-operate-on-their-own-in-the-real-world/) and in the College of Engineering  [News](https://engineering.tamu.edu/news/2023/04/kalathil-addresses-reinforcement-learning-challenges.html)
+  
+
+=======
       text :  • My research is featured in the TAMU [Research Bulletin](https://research.tamu.edu/2023/04/25/strangers-in-a-strange-land-can-reinforcement-learning-teach-robots-to-operate-on-their-own-in-the-real-world/) and in the College of Engineering  [News](https://engineering.tamu.edu/news/2023/04/kalathil-addresses-reinforcement-learning-challenges.html) <br>  • Why is featured in the TAMU [Research Bulletin](https://research.tamu.edu/2023/04/25/strangers-in-a-strange-land-can-reinforcement-learning-teach-robots-to-operate-on-their-own-in-the-real-world/) and in the College of Engineering  [News](https://engineering.tamu.edu/news/2023/04/kalathil-addresses-reinforcement-learning-challenges.html)
   
   - block: collection
@@ -44,6 +49,7 @@ sections:
     design:
       columns: '2'
       view: card
+>>>>>>> 9fd7be1bfbd183104de32f5e5094d3685afeb206
   - block: collection
     content:
       title: Recent Research
@@ -61,8 +67,13 @@ sections:
   - block: markdown
     id: group
     content:
+<<<<<<< HEAD
+      title: Lab Gallery
+      subtitle: Sneak peek into the lab and our team
+=======
       title: Group
       subtitle: A subtitle
+>>>>>>> 9fd7be1bfbd183104de32f5e5094d3685afeb206
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!  {{< gallery album="demo" >}}
   - block: contact
     id: contact
@@ -71,7 +82,11 @@ sections:
       subtitle:
       text: 
       # Contact (add or remove contact options as necessary)
+<<<<<<< HEAD
+      email: sshakkot@tamu.edu
+=======
       email: lenslabtamu@gmail.com
+>>>>>>> 9fd7be1bfbd183104de32f5e5094d3685afeb206
       phone: 1-979-458-0094
       address:
         street: 188 Bizzell St , Wisenbaker Engineering Building (WEB) - 002
@@ -90,7 +105,21 @@ sections:
     design:
       columns: '2'
   
+<<<<<<< HEAD
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
+=======
   
+>>>>>>> 9fd7be1bfbd183104de32f5e5094d3685afeb206
 
       
   
