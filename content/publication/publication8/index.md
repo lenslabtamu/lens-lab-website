@@ -1,15 +1,15 @@
 ---
-title: 'Federated Ensemble- Directed Offline Reinforcement Learning'
+title: 'Learning with Safety Constraints: Sample Complexity of Reinforcement Learning for Constrained MDPs'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Desik Rengarajan
-  - Nitin Ragothaman
+  - Aria HasanzadeZonuzy
+  - Archana Bura
   - Dileep Kalathil
   - Srinivas Shakkottai
-
+  
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
@@ -19,7 +19,7 @@ authors:
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-05-04T00:00:00Z'
+publishDate: '2021-02-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +31,7 @@ publication_types: ['1']
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: We consider the problem of federated offline reinforcement learning (RL), a scenario under which distributed learning agents must collaboratively learn a high-quality control policy only using small pre-collected datasets generated according to different unknown behavior policies. Naively combining a standard offline RL approach with a standard federated learning approach to solve this problem can lead to poorly performing policies. In response, we develop the Federated Ensemble-Directed Offline Reinforcement Learning Algorithm (FEDORA), which distills the collective wisdom of the clients using an ensemble learning approach. We develop the FEDORA codebase to utilize distributed compute resources on a federated learning platform. We show that FEDORA significantly outperforms other approaches, including offline RL over the combined data pool, in various complex continuous control environments and real world datasets. Finally, we demonstrate the performance of FEDORA in the real-world on a mobile robot.
+abstract: The predominant use of wireless access networks is for media streaming applications, but current networks treat all packets the same and can't determine which clients need service most urgently; with widespread software reconfigurability in networking devices, agile control policies can now be applied in access networks, requiring a system design that enables configuration, measures application performance impact (Quality of Experience), and adaptively selects new configurations, essentially a Markov Decision Process with unknown parameters; the goal is to develop QFlow, a platform to instantiate this loop and various control policies, using video streaming over YouTube as a use case, focusing on priority queueing and determining client assignments per queue each decision period; policies are developed using both model-based and model-free reinforcement learning, an auction-based system for priority service bidding, and a structured index-based policy, with experiments showing these policies on QFlow select the right clients for prioritization in high-load scenarios, outperforming known solutions with over 25% improvement in QoE and achieving a perfect QoE score of 5 over 85% of the time.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -52,7 +52,7 @@ featured: False
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-url_source: 'https://arxiv.org/abs/2305.03097'
+url_source: 'https://ojs.aaai.org/index.php/AAAI/article/view/16937'
 # url_video: 'https://youtube.com'
 
 # Featured image

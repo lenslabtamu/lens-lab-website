@@ -1,15 +1,16 @@
 ---
-title: 'Federated Ensemble- Directed Offline Reinforcement Learning'
+title: 'Learning to Cache and Caching to Learn: Regret Analysis of Caching Algorithms'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Archana Bura
   - Desik Rengarajan
-  - Nitin Ragothaman
   - Dileep Kalathil
   - Srinivas Shakkottai
-
+  - Jean-Francois Chamberland
+  
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
@@ -19,7 +20,7 @@ authors:
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-05-04T00:00:00Z'
+publishDate: '2021-08-26T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +32,7 @@ publication_types: ['1']
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: We consider the problem of federated offline reinforcement learning (RL), a scenario under which distributed learning agents must collaboratively learn a high-quality control policy only using small pre-collected datasets generated according to different unknown behavior policies. Naively combining a standard offline RL approach with a standard federated learning approach to solve this problem can lead to poorly performing policies. In response, we develop the Federated Ensemble-Directed Offline Reinforcement Learning Algorithm (FEDORA), which distills the collective wisdom of the clients using an ensemble learning approach. We develop the FEDORA codebase to utilize distributed compute resources on a federated learning platform. We show that FEDORA significantly outperforms other approaches, including offline RL over the combined data pool, in various complex continuous control environments and real world datasets. Finally, we demonstrate the performance of FEDORA in the real-world on a mobile robot.
+abstract: Crucial performance metrics of a caching algorithm include its ability to quickly and accurately learn a popularity distribution of requests. However, a majority of work on analytical performance analysis focuses on hit probability after an asymptotically large time has elapsed. We consider an online learning viewpoint, and characterize the “regret” in terms of the finite time difference between the hits achieved by a candidate caching algorithm with respect to a genie-aided scheme that places the most popular items in the cache. We first consider the Full Observation regime wherein all requests are seen by the cache. We show that the Least Frequently Used (LFU) algorithm is able to achieve order optimal regret, which is matched by an efficient counting algorithm design that we call LFU-Lite. We then consider the Partial Observation regime wherein only requests for items currently cached are seen by the cache, making it similar to an online learning problem related to the multi-armed bandit problem. We show how approaching this “caching bandit” using traditional approaches yields either high complexity or regret, but a simple algorithm design that exploits the structure of the distribution can ensure order optimal regret. We conclude by illustrating our insights using numerical simulations.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -52,7 +53,7 @@ featured: False
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-url_source: 'https://arxiv.org/abs/2305.03097'
+url_source: 'https://ieeexplore.ieee.org/document/9523607'
 # url_video: 'https://youtube.com'
 
 # Featured image

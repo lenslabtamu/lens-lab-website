@@ -44,7 +44,7 @@ sections:
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+        {{% /callout %}} 
       filters:
         folders:
           - publication
@@ -57,7 +57,7 @@ sections:
     content:
       title: Group
       subtitle: List of Students
-      text: • Zaiyan Xu [[Webpage](https://www.zaiyanxu.com/)]  (Fall 2020 - Present) <br> • Sapana Chaudhary [[Webpage](https://sapanachaudhary.github.io/)] (Fall 2019 - Present) <br> • Kishan Panaganti [[Webpage](https://sapanachaudhary.github.io/)] (Fall 2018 - Summer 2023) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next position - Postdoc, Caltech. <br> • Archana Bura [[Webpage](https://sites.google.com/tamu.edu/archanabura)]  (Fall 2017 - Summer 2023) . (co-advised with Prof. Srinivas Shakkottai) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next position - Postdoc, UCSD. <br> • Desik Rengarajan [[Webpage](https://sites.google.com/view/desik-rengarajan/home)]  (Fall 2017 - Summer 2023). (co-advised with Prof. Srinivas Shakkottai). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next position -Research Scientist, HP Labs.
+      text: __PHD Students__ <br> • Zaiyan Xu [[Webpage](https://www.zaiyanxu.com/)]  (Fall 2020 - Present) <br> • Sapana Chaudhary [[Webpage](https://sapanachaudhary.github.io/)] (Fall 2019 - Present) <br> • Kishan Panaganti [[Webpage](https://sapanachaudhary.github.io/)] (Fall 2018 - Summer 2023) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next position - Postdoc, Caltech. <br> • Archana Bura [[Webpage](https://sites.google.com/tamu.edu/archanabura)]  (Fall 2017 - Summer 2023) . (co-advised with Prof. Srinivas Shakkottai) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next position - Postdoc, UCSD. <br> • Desik Rengarajan [[Webpage](https://sites.google.com/view/desik-rengarajan/home)]  (Fall 2017 - Summer 2023). (co-advised with Prof. Srinivas Shakkottai). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next position -Research Scientist, HP Labs. <br> • Sarat Bobbili <br> • Jeremy Carleton <br> • Ujwal Dinesha <br> • Bhavya Nukapotula <br> • Vicram Rajagopalan <br> __Masters Students__ <br> • Prathik Vijaykumar [[Link](https://www.linkedin.com/in/prathik-vijaykumar98/)] <br> • Gayathri Narayanan <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next position - Arm <br> Gargi Vaidya  (Fall 2019 - Fall 2021)
 
   - block: markdown
     id: group
