@@ -57,7 +57,9 @@ sections:
     content:
       title: Group
       subtitle: List of Students
-      text: __PHD Students__ <br> • Zaiyan Xu [[Webpage](https://www.zaiyanxu.com/)]  (Fall 2020 - Present) <br> • Sapana Chaudhary [[Webpage](https://sapanachaudhary.github.io/)] (Fall 2019 - Present) <br> • Kishan Panaganti [[Webpage](https://sapanachaudhary.github.io/)] (Fall 2018 - Summer 2023) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next position - Postdoc, Caltech. <br> • Archana Bura [[Webpage](https://sites.google.com/tamu.edu/archanabura)]  (Fall 2017 - Summer 2023) . (co-advised with Prof. Srinivas Shakkottai) <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next position - Postdoc, UCSD. <br> • Desik Rengarajan [[Webpage](https://sites.google.com/view/desik-rengarajan/home)]  (Fall 2017 - Summer 2023). (co-advised with Prof. Srinivas Shakkottai). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next position -Research Scientist, HP Labs. <br> • Sarat Bobbili <br> • Jeremy Carleton <br> • Ujwal Dinesha <br> • Bhavya Nukapotula <br> • Vicram Rajagopalan <br> __Masters Students__ <br> • Prathik Vijaykumar [[Link](https://www.linkedin.com/in/prathik-vijaykumar98/)] <br> • Gayathri Narayanan <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next position - Arm <br> Gargi Vaidya  (Fall 2019 - Fall 2021)
+      text: __Current Students__ <br> Zaiyan Xu, &nbsp;&nbsp; PhD ,&nbsp;&nbsp; [Webpage](https://www.zaiyanxu.com/)  <br> Sapana Chaudhary, &nbsp;&nbsp; PhD, &nbsp;&nbsp; [Webpage](https://sapanachaudhary.github.io/) <br> Sarat Bobbili ,&nbsp;&nbsp; PhD <br> Jeremy Carleton ,&nbsp;&nbsp; PhD  <br> Ujwal Dinesha ,&nbsp;&nbsp; PhD <br> Bhavya Nukapotula ,&nbsp;&nbsp; PhD <br> Vicram Rajagopalan, &nbsp;&nbsp; PhD <br> Prathik Vijaykumar, &nbsp;&nbsp; MS, &nbsp;&nbsp; [Webpage](https://www.linkedin.com/in/prathik-vijaykumar98/) <br> <br> __Alumni__ <br> Kishan Panaganti, &nbsp;&nbsp; PhD <br> Archana Bura,  &nbsp;&nbsp; PhD  <br> Desik Rengarajan, &nbsp;&nbsp; PhD <br> Gayathri Narayanan, &nbsp;&nbsp; MS <br> Gargi Vaidya, &nbsp;&nbsp; MS  
+
+
 
   - block: markdown
     id: group
